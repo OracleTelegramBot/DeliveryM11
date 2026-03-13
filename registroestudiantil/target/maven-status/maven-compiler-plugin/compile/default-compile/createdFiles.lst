@@ -1,0 +1,6 @@
+com/app/registroestudiantil/Main.class
+com/app/registroestudiantil/modelos/EstudianteBeca.class
+com/app/registroestudiantil/modelos/EstudianteRegular.class
+com/app/registroestudiantil/modelos/Estudiante.class
+com/app/registroestudiantil/servicios/ProcesoService.class
+com/app/registroestudiantil/modelos/Persona.class
